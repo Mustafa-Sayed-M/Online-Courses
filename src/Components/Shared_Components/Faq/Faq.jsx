@@ -34,7 +34,7 @@ function Faq() {
                     </div>
                     {/* Faqs */}
                     <div className='faqs space-y-2 md:col-span-2'>
-                        {faqs.map((faq, index) => <div className={`faq-card p-3 rounded-md border border-white-color-95 shadow-md transition ${faqsOpen.includes(faq.id) && "border-orange-color-50"}`} key={index}>
+                        {faqs.map((faq, index) => <div className={`faq-card p-3 rounded-md border shadow-md transition ${faqsOpen.includes(faq.id) ? "border-orange-color-50" : "border-white-color-95"}`} key={index}>
                             {/* Header */}
                             <div className='header flex items-center gap-3'>
                                 {/* Question */}

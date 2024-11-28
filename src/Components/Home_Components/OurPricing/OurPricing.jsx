@@ -27,7 +27,7 @@ const PlanCard = ({ planData }) => {
                 <ul className='space-y-2'>
                     {features.map((feature, index) => <li key={index} className='flex items-center gap-2 border border-white-color-95 p-3 rounded-md text-grey-color-30'>
                         <div className='w-10 h-10 p-2 rounded-md bg-orange-color-95 flex items-center justify-center'>
-                            <i class={`fa-solid fa-${feature.allowed ? 'check' : 'xmark'} fa-fw`}></i>
+                            <i className={`fa-solid fa-${feature.allowed ? 'check' : 'xmark'} fa-fw`}></i>
                         </div>
                         <span>{feature.text}</span>
                     </li>)}
