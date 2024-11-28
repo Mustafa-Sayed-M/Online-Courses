@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "name": "Web Design Fundamentals",
+        "description": "Learn the fundamentals of web design, including HTML, CSS, and responsive design principles. Develop the skills to create visually appealing and user-friendly websites.",
+        "curriculum": [
+            {
+                "name": "Introduction to HTML",
+                "lessons": [
+                    {
+                        "name": "Understanding UI/UX Design Principles",
+                        "duration": "45 Minutes"
+                    },
+                    {
+                        "name": "Importance of User-Centered Design",
+                        "duration": "1 Hour"
+                    },
+                    {
+                        "name": "The Role of UI/UX Design in Product Development",
+                        "duration": "45 Minutes"
+                    }
+                ]
+            },
+            {
+                "name": "Styling with CSS",
+                "lessons": [
+                    {
+                        "name": "Conducting User Research and Interviews",
+                        "duration": "1 Hour"
+                    },
+                    {
+                        "name": "Analyzing User Needs and Behavior",
+                        "duration": "1 Hour"
+                    },
+                    {
+                        "name": "Creating User Personas and Scenarios",
+                        "duration": "45 Minutes"
+                    }
+                ]
+            },
+            {
+                "name": "Introduction to Responsive Design",
+                "lessons": [
+                    {
+                        "name": "Introduction to Wireframe Tools and Techniques",
+                        "duration": "1 Hour"
+                    },
+                    {
+                        "name": "Creating Low-Fidelity Wireframe",
+                        "duration": "1 Hour"
+                    },
+                    {
+                        "name": "Prototyping and Interactive Mockups",
+                        "duration": "1 Hour"
+                    }
+                ]
+            },
+            {
+                "name": "Design Principles for Web",
+                "lessons": [
+                    {
+                        "name": "Color Theory and Typography in UI Design",
+                        "duration": "1 Hour"
+                    },
+                    {
+                        "name": "Visual Hierarchy and Layout Design",
+                        "duration": "1 Hour"
+                    },
+                    {
+                        "name": "Creating a Strong Brand Identity",
+                        "duration": "45 Minutes"
+                    }
+                ]
+            },
+            {
+                "name": "Building a Basic Website",
+                "lessons": [
+                    {
+                        "name": "Usability Testing Methods and Techniques",
+                        "duration": "1 Hour"
+                    },
+                    {
+                        "name": "Analyzing Usability Test Results",
+                        "duration": "45 Minutes"
+                    },
+                    {
+                        "name": "Iterating and Improving UX Designs",
+                        "duration": "45 Minutes"
+                    }
+                ]
+            }
+        ],
+        "duration": "4 Weeks",
+        "level": "Beginner",
+        "teacher": "By John Smith",
+        "images": [
+            "courses/web-design-fundamentals/1.png",
+            "courses/web-design-fundamentals/2.png",
+            "courses/web-design-fundamentals/3.png"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "UI/UX Design",
+        "description": "Master the art of creating intuitive user interfaces (UI) and enhancing user experiences (UX). Learn design principles, wireframing, prototyping, and usability testing techniques.",
+        "curriculum": [
+            {
+                "name": "Introduction to UI/UX Design",
+                "lessons": [
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    }
+                ]
+            },
+            {
+                "name": "User Research and Personas",
+                "lessons": [
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    }
+                ]
+            },
+            {
+                "name": "Wireframing and Prototyping",
+                "lessons": [
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    }
+                ]
+            },
+            {
+                "name": "Visual Design and Branding",
+                "lessons": [
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    }
+                ]
+            },
+            {
+                "name": "Usability Testing and Iteration",
+                "lessons": [
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    }
+                ]
+            }
+        ],
+        "duration": "6 Weeks",
+        "level": "Intermediate",
+        "teacher": "By Emily Johnson",
+        "images": [
+            "courses/uiux-design/1.png",
+            "courses/uiux-design/2.png",
+            "courses/uiux-design/3.png"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Mobile App Development",
+        "description": "Dive into the world of mobile app development. Learn to build native iOS and Android applications using industry-leading frameworks like Swift and Kotlin.",
+        "curriculum": [
+            {
+                "name": "Introduction to Mobile App Development",
+                "lessons": [
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    }
+                ]
+            },
+            {
+                "name": "Fundamentals of Swift Programming (iOS)",
+                "lessons": [
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    }
+                ]
+            },
+            {
+                "name": "Fundamentals of Kotlin Programming (Android)",
+                "lessons": [
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    }
+                ]
+            },
+            {
+                "name": "Building User Interfaces",
+                "lessons": [
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    }
+                ]
+            },
+            {
+                "name": "App Deployment and Testing",
+                "lessons": [
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    }
+                ]
+            }
+        ],
+        "duration": "8 Weeks",
+        "level": "Intermediate",
+        "teacher": "By David Brown",
+        "images": [
+            "courses/mobile-app-development/1.png",
+            "courses/mobile-app-development/2.png",
+            "courses/mobile-app-development/3.png"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Graphic Design for Beginners",
+        "description": "Discover the fundamentals of graphic design, including typography, color theory, layout design, and image manipulation techniques. Create visually stunning designs for print and digital media.",
+        "curriculum": [
+            {
+                "name": "Introduction to Graphic Design",
+                "lessons": [
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    }
+                ]
+            },
+            {
+                "name": "Typography and Color Theory",
+                "lessons": [
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    }
+                ]
+            },
+            {
+                "name": "Layout Design and Composition",
+                "lessons": [
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    }
+                ]
+            },
+            {
+                "name": "Image Editing and Manipulation",
+                "lessons": [
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    }
+                ]
+            },
+            {
+                "name": "Designing for Print and Digital Media",
+                "lessons": [
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    }
+                ]
+            }
+        ],
+        "duration": "10 Weeks",
+        "level": "Beginner",
+        "teacher": "By Sarah Thompson",
+        "images": [
+            "courses/graphic-design-for-beginners/1.png",
+            "courses/graphic-design-for-beginners/2.png",
+            "courses/graphic-design-for-beginners/3.png"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Front-End Web Development",
+        "description": "Become proficient in front-end web development. Learn HTML, CSS, JavaScript, and popular frameworks like Bootstrap and React. Build interactive and responsive websites.",
+        "curriculum": [
+            {
+                "name": "HTML Fundamentals",
+                "lessons": [
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    }
+                ]
+            },
+            {
+                "name": "CSS Styling and Layouts",
+                "lessons": [
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    }
+                ]
+            },
+            {
+                "name": "JavaScript Basics",
+                "lessons": [
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    }
+                ]
+            },
+            {
+                "name": "Building Responsive Websites",
+                "lessons": [
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    }
+                ]
+            },
+            {
+                "name": "Introduction to Bootstrap and React",
+                "lessons": [
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    },
+                    {
+                        "name": "",
+                        "duration": ""
+                    }
+                ]
+            }
+        ],
+        "duration": "10 Weeks",
+        "level": "Intermediate",
+        "teacher": "By Michael Adams",
+        "images": [
+            "courses/frontend-web-development/1.png",
+            "courses/frontend-web-development/2.png",
+            "courses/frontend-web-development/3.png"
+        ]
+    }
+]

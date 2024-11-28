@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global */
+html,
+body {
+  font-family: "Be Vietnam Pro", sans-serif;
+  font-style: normal;
+}
