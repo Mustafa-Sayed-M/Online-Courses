@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Online-Courses/static/css/main.cfe98866.css",
-    "main.js": "/Online-Courses/static/js/main.17cce279.js",
+    "main.css": "/Online-Courses/static/css/main.7f457ab4.css",
+    "main.js": "/Online-Courses/static/js/main.c6a6f676.js",
     "static/js/453.2a82e7ac.chunk.js": "/Online-Courses/static/js/453.2a82e7ac.chunk.js",
     "static/media/fa-solid-900.ttf": "/Online-Courses/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/fa-brands-400.ttf": "/Online-Courses/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
@@ -12,12 +12,12 @@
     "static/media/fa-v4compatibility.ttf": "/Online-Courses/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
     "static/media/fa-v4compatibility.woff2": "/Online-Courses/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/Online-Courses/index.html",
-    "main.cfe98866.css.map": "/Online-Courses/static/css/main.cfe98866.css.map",
-    "main.17cce279.js.map": "/Online-Courses/static/js/main.17cce279.js.map",
+    "main.7f457ab4.css.map": "/Online-Courses/static/css/main.7f457ab4.css.map",
+    "main.c6a6f676.js.map": "/Online-Courses/static/js/main.c6a6f676.js.map",
     "453.2a82e7ac.chunk.js.map": "/Online-Courses/static/js/453.2a82e7ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cfe98866.css",
-    "static/js/main.17cce279.js"
+    "static/css/main.7f457ab4.css",
+    "static/js/main.c6a6f676.js"
   ]
 }
