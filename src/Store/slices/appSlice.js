@@ -4,7 +4,8 @@ const appSlice = createSlice({
     name: "app",
     initialState: {
         openNavbarMenu: false,
-        faqsOpen: []
+        faqsOpen: [],
+        pricingSelected: 'monthly'
     },
     reducers: {
         handleOpenNavbarMenu: (state, action) => {
@@ -21,6 +22,9 @@ const appSlice = createSlice({
         openAllFaqs: (state, action) => {
             state.faqsOpen = action.payload;
             return state;
+        },
+        handlePricingSelected: (state, action) => {
+            state.pricingSelected = action.payload;
         }
     },
 });
@@ -30,5 +34,6 @@ export default appSlice.reducer;
 export const {
     handleOpenNavbarMenu,
     handleFaqsOpen,
-    openAllFaqs
+    openAllFaqs,
+    handlePricingSelected,
 } = appSlice.actions;
