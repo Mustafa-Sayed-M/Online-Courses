@@ -1,5 +1,6 @@
 import React from 'react';
 import HeadSection from '../../Shared_Components/HeadSection';
+import IconWrapper from '../../Shared_Components/IconWrapper';
 
 const PlanCard = ({ planData }) => {
 
@@ -26,10 +27,12 @@ const PlanCard = ({ planData }) => {
                 <h3 className='mb-3 font-medium text-center text-grey-color-15'>Available Features</h3>
                 <ul className='space-y-2'>
                     {features.map((feature, index) => <li key={index} className='flex items-center gap-2 border border-white-color-95 p-3 rounded-md text-grey-color-30'>
-                        <div className='w-10 h-10 p-2 rounded-md bg-orange-color-95 flex items-center justify-center'>
-                            <i className={`fa-solid fa-${feature.allowed ? 'check' : 'xmark'} fa-fw`}></i>
-                        </div>
-                        <span>{feature.text}</span>
+                        {/* Icon */}
+                        <IconWrapper
+                            bgColor={'bg-orange-color-95'}
+                            fontAwesomeIconClass={`fa-solid fa-${feature.allowed ? 'check' : 'xmark'}`}
+                        />
+                        <span className='flex-1'>{feature.text}</span>
                     </li>)}
                 </ul>
             </div>
